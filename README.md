@@ -22,3 +22,6 @@ This project uses **Multiple Linear Regression** to predict the resale value of 
 ## 📊 Results
 * **R² Score:** Explains the variance in resale prices.
 * **Mean Absolute Error (MAE):** Average prediction deviation in INR.
+
+## 📊 Model Performance
+![Actual vs Predicted Plot](image.png)
